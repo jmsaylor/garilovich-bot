@@ -1,0 +1,25 @@
+{
+  "name": "garilovich",
+  "version": "1.0.0",
+  "description": "test bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsaylor/garilovich-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "JMS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmsaylor/garilovich-bot/issues"
+  },
+  "homepage": "https://github.com/jmsaylor/garilovich-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
