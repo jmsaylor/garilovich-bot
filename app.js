@@ -12,4 +12,5 @@ client.on("message", (msg) => {
   if (msg.content === "gary") {
     msg.reply("baoo baoo");
   }
+  console.log(`Message: ${msg.content}`, "\n", msg.author);
 });
